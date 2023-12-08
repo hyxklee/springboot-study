@@ -1,4 +1,4 @@
-package me.hyuxlee.springbootdev.ch3;
+package me.hyuxlee.springbootdev;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

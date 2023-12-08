@@ -1,4 +1,4 @@
-package me.hyuxlee.springbootdev.ch3;
+package me.hyuxlee.springbootdev;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

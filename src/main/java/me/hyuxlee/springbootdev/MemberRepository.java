@@ -1,4 +1,4 @@
-package me.hyuxlee.springbootdev.ch3;
+package me.hyuxlee.springbootdev;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

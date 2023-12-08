@@ -1,4 +1,4 @@
-package me.hyuxlee.springbootdev.ch3;
+package me.hyuxlee.springbootdev;
 
 import jakarta.persistence.*;
 import lombok.AccessLevel;
